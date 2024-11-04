@@ -1,0 +1,4 @@
+.venv/
+.cache/
+chat_histories/
+Phi-3-mini-4k-instruct-onnx/
